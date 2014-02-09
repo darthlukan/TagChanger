@@ -1,0 +1,9 @@
+name: tagchanger
+main: io.github.darthlukan.tagchanger.TagChanger
+version: 0.1
+author: darthlukan
+
+commands:
+  changetag:
+    description: Change the player's TAB list name tag.
+    usage: /changetag [tag]
